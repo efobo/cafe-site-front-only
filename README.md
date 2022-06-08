@@ -1,1 +1,1 @@
-# cafe-site-front-only
+<img src="view.png">
